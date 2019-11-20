@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Fitness" android:title="Fitness" android:icon="@drawable/ic_fitness"/>
+    <item android:id="@+id/Wellness" android:title="Wellness" android:icon="@drawable/ic_wellness"/>
+    <item android:id="@+id/MyStuff" android:title="My Stuff" android:icon="@drawable/ic_stuff"/>
+    <item android:id="@+id/Gallery" android:title="Gallery" android:icon="@drawable/ic_gallery"/>
+    <item android:id="@+id/Manage" android:title="Manage Info" android:icon="@drawable/ic_edit"/>
+    <item android:id="@+id/Settings" android:title="Settings" android:icon="@drawable/ic_settings"/>
+    <item android:id="@+id/Logout" android:title="Logout" android:icon="@drawable/ic_exit"/>
+</menu>
